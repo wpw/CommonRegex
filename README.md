@@ -1,4 +1,4 @@
-CommonRegex-Ruby
+CommonRegexRuby
 ===========
 
 Port of CommonRegex from Python to Ruby
