@@ -1,21 +1,12 @@
 CommonRegex
 ===========
 
+Port of CommonRegex from Python to Ruby
+
 Find all times, dates, links, phone numbers, emails, ip addresses, prices, hex colors, and credit card numbers in a string. 
 We did the hard work so you don't have to.
 
 Pull requests welcome!
-
-Installation
--------
-Install via pip
-
-    sudo pip install commonregex
-    
-or via setup.py
-
-    python setup.py install
-
 
 Usage
 ------
@@ -103,6 +94,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-46923950-1/CommonRegex/readme?pixel)](https://github.com/igrigorik/ga-beacon)
 
